@@ -8,4 +8,4 @@ This plugin requires a [Nerd Font](https://www.nerdfonts.com/font-downloads) to 
 
 ## Installation
 
-Clone this repo, and then move `starship-ocm.plugin.zsh` into the `$ZSH/custom/plugins/starship-ocm` directory. Next, in your zshrc, add the `starship-ocm` plugin name to the plugins line.
+Clone this repo, and then move `spaceship-ocm.plugin.zsh` into the `$ZSH/custom/plugins/spaceship-ocm` directory. Next, in your zshrc, add the `spaceship-ocm` plugin name to the plugins line.
