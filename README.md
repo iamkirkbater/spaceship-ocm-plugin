@@ -1,4 +1,4 @@
-# OpenShift Cluster Manager Starship Plugin
+# OpenShift Cluster Manager Spaceship Plugin
 
 This plugin will query your OpenShift Cluster Manager (ocm) configuration to always show which environment you're connected to.
 
