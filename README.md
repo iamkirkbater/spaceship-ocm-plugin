@@ -2,6 +2,8 @@
 
 This plugin will query your OpenShift Cluster Manager (ocm) configuration to always show which environment you're connected to.
 
+![Screenshot of ocm-spaceship-ocm in action](./assets/screenshot.png)
+
 ## Prereqs
 
 This plugin requires a [Nerd Font](https://www.nerdfonts.com/font-downloads) to be installed and used by your terminal.
